@@ -1,5 +1,6 @@
 name: Greeting from ChanChunYip
 on:push
+
 jobs:
 my-job:
 name: My Job
