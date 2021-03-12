@@ -1,5 +1,5 @@
 name: Greeting from ChanChunYip
-on:push
+on: push
 
 jobs:
 my-job:
