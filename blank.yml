@@ -1,4 +1,4 @@
-name: Greeting from Mona
+name: Greeting from ChanChunYip
 on:push
 jobs:
 my-job:
